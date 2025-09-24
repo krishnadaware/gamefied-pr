@@ -2,9 +2,9 @@ import { Button } from "@/components/ui/button";
 
 export default function TeacherDashboard() {
   const students = [
-    { name: "Mia", points: 220, badges: 3, rank: 1 },
-    { name: "Noah", points: 190, badges: 2, rank: 2 },
-    { name: "Ava", points: 160, badges: 2, rank: 3 },
+    { name: "Pratik", points: 220, badges: 3, rank: 1 },
+    { name: "Varun", points: 190, badges: 2, rank: 2 },
+    { name: "Shreyas", points: 160, badges: 2, rank: 3 },
   ];
 
   return (
